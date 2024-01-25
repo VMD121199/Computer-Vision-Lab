@@ -163,3 +163,5 @@ cython_debug/
 *draft*
 *data*
 *.h5
+*.avi
+*.pt
